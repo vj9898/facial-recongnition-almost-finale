@@ -1,0 +1,25 @@
+body
+{
+color: #00ff6a;
+background:royalblue;
+}
+
+.heading
+{
+width:80%
+}
+
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: skyblue }
+
+  #camera{
+      border:2px dashed black;
+      width: 350px;
+      height: 300px;
+  }
+
+
+
+
+
